@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMVCSample</string>
+    <string name="mvc_sample_text">This is my MVC sample</string>
+
+</resources>
